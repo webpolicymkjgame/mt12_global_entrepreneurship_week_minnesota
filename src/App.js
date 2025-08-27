@@ -21,8 +21,10 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Global Entrepreneurship Week Minnesota" className="logo-img" />
-                <span className="studio-name">Global Entrepreneurship Week Minnesota</span>
+                <img src={logoImg} alt="Zed App Mobile Studio
+" className="logo-img" />
+                <span className="studio-name">Zed App Mobile Studio
+</span>
               </div>
             </div>
 
@@ -52,8 +54,10 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Global Entrepreneurship Week Minnesota – Welcome Aboard</h2>
-            <p className="about-text">Global Entrepreneurship Week Minnesota is a mobile app development studio specializing in innovative, secure, and user-friendly financial solutions. In addition to fintech apps, we provide advanced PDF tools for document management and digital workflows. Our official website showcases a diverse portfolio – from PDF utilities and productivity tools to educational, lifestyle, and financial applications.
+            <h2 className="highlight-title">Zed App Mobile Studio
+ – Welcome Aboard</h2>
+            <p className="about-text">Zed App Mobile Studio
+ is a mobile app development studio specializing in innovative, secure, and user-friendly financial solutions. In addition to fintech apps, we provide advanced PDF tools for document management and digital workflows. Our official website showcases a diverse portfolio – from PDF utilities and productivity tools to educational, lifestyle, and financial applications.
             </p>
           </div>
           <div className="about-img-container">
@@ -112,7 +116,8 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Global Entrepreneurship Week Minnesota. All rights reserved.</p>
+            <p>&copy; {new Date().getFullYear()} Zed App Mobile Studio
+. All rights reserved.</p>
           </div>
         </footer>
       </div>
