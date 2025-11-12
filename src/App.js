@@ -21,10 +21,8 @@ function Header() {
           <div className="container header-container">
             <div className="header-left">
               <div className="logo-wrapper">
-                <img src={logoImg} alt="Zed App Mobile Studio
-" className="logo-img" />
-                <span className="studio-name">Zed App Mobile Studio
-</span>
+                <img src={logoImg} alt="Solvertech Africa Studio" className="logo-img" />
+                <span className="studio-name">Solvertech Africa Studio</span>
               </div>
             </div>
 
@@ -54,9 +52,9 @@ function HomePage() {
       <section id="about" className="section about">
         <div className="container about-row">
           <div className="about-text-container">
-            <h2 className="highlight-title">Zed App Mobile Studio
+            <h2 className="highlight-title">Solvertech Africa Studio
  – Welcome Aboard</h2>
-            <p className="about-text">Zed App Mobile Studio
+            <p className="about-text">Solvertech Africa Studio
  is a mobile app development studio specializing in innovative, secure, and user-friendly financial solutions. In addition to fintech apps, we provide advanced PDF tools for document management and digital workflows. Our official website showcases a diverse portfolio – from PDF utilities and productivity tools to educational, lifestyle, and financial applications.
             </p>
           </div>
@@ -116,7 +114,7 @@ function App() {
         </Routes>
         <footer className="footer">
           <div className="container text-center">
-            <p>&copy; {new Date().getFullYear()} Zed App Mobile Studio
+            <p>&copy; {new Date().getFullYear()} Solvertech Africa Studio
 . All rights reserved.</p>
           </div>
         </footer>
